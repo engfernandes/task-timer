@@ -1,5 +1,5 @@
 import React from 'react';
-import ITarefa from '../../types/tarefa';
+import {ITarefa} from '../../types/tarefa';
 import Botao from '../Botao';
 import style from './formulario.module.scss';
 import {v4 as uuidv4} from 'uuid';
